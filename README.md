@@ -1,3 +1,3 @@
 # Prophet-Price-Prediction
 
-A simple script that predicts crypto currency price movements using the Prophet library.
+Here's a simple script for forecasting stock/crypto prices using Facebook's Prophet Model
